@@ -1,4 +1,4 @@
 # tubes-cnn
 Repo dalam rangka menyelesaikan tugas besar mata kuliah CNN
-Oleh: Ali Zainal Abidin Assajjad - Aditya Rio Fansdana
-/nTopik: Klasifikasi Emosi
+Topik Klasifikasi Emosi
+Oleh Ali Zainal Abidin Assajjad - Aditya Rio Fansdana
